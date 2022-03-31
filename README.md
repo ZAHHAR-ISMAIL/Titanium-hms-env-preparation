@@ -53,7 +53,7 @@ titanium create --type app --platforms android
 │   └───android
 │       ├───agconnect-services.json
 └───plugins
-    └───com.ikamaru.ti.hms.env_preparation
+    └───com.tita.env.preparation
         └───2.1
             ├───hooks
             │   └───myhook.js
