@@ -1,4 +1,4 @@
-# HMS Environment Preparation - Titanium Plugin
+# HMS Environment Preparation - Titanium Plugin (SDK 10.1.1)
 
 A Titanium Plugin to prepare the [HMS environment ](https://developer.huawei.com/consumer/en/codelab/HMSPreparation/index.html) in your Titanium project.
 
@@ -42,7 +42,7 @@ titanium create --type app --platforms android
 - Inside **tiapp.xml** add the **com.ikamaru.ti.hms.env_preparation** plugin that we downloaded in the **plugins** folder:
 ```xml
 <plugins>
-	<plugin version="2.1">com.ikamaru.ti.hms.env_preparation</plugin>
+	<plugin version="3.0">com.tita.env.preparation</plugin>
 </plugins>
 ```
 
